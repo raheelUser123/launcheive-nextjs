@@ -27,7 +27,7 @@ type AuditCard = {
 
 const cards: AuditCard[] = [
   {
-    title: "We look at your product the way we'd look at our own.",
+    title: "We look at your products the way we'd look at our own.",
     visual: "product-ownership",
   },
   {
